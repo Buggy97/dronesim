@@ -1,0 +1,12 @@
+venv
+__pycache__
+flight_plans.csv
+flight_plans.json
+RID_dataset.json
+sensing_dataset.csv
+wifi_matrix.csv
+tele_matrix.csv
+tracked_paths.json
+trajectories.json
+experiments
+.python-version
